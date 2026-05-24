@@ -99,13 +99,13 @@ python realtime.py
 <table border="0">
   <tr>
     <td align="center">
-      <img src="assets/interface.png" width="100%" />
+      <img src="assets/Interface.png" width="100%" />
       <br />
       <b>Интерфейс системы</b><br />
       <i>Распознавание жестов в режиме реального времени</i>
     </td>
     <td align="center">
-      <img src="assets/training_graph.png" width="100%" />
+      <img src="assets/accuracy.png" width="100%" />
       <br />
       <b>Графики обучения</b><br />
       <i>Изменение точности и функции потерь</i>
