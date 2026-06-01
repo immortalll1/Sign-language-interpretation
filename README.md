@@ -111,6 +111,18 @@ python realtime.py
       <b>График точности</b><br>
       <i>График точности на валидационной выборке</i>
     </td>
+    <td align="center">
+      <img src="assets/train_val_acc.png" width="100%">
+      <br>
+      <b>Динамика точности модели</b><br>
+      <i>Сравнение точности на обучающей и валидационной выборках</i>
+    </td>
+    <td align="center">
+      <img src="assets/learningrate.png" width="100%">
+      <br>
+      <b>Изменение скорости обучеия</b><br>
+      <i>Плавное изменение скорости обучеия</i>
+    </td>
   </tr>
 </table>
 
