@@ -24,10 +24,10 @@ def main():
 
     # Ускоренные параметры
     BATCH_SIZE = 8
-    EPOCHS = 15
+    EPOCHS = 50
     LEARNING_RATE = 1e-4
-    SEQUENCE_LENGTH = 8
-    IMG_SIZE = 96
+    SEQUENCE_LENGTH = 16
+    IMG_SIZE = 128
     NUM_WORKERS = 0
     EARLY_STOPPING_PATIENCE = 5
 
