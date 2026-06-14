@@ -85,7 +85,7 @@ python realtime.py
 
 | Метрика | Значение |
 |---------|----------|
-| **Accuracy (Train)** | **0.91** |
+| **Accuracy (Train)** | **0.89** |
 | **Accuracy (Validation)** | **0.86** |
 | **Final Loss** | **0.43** |
 | **Generalization Gap** | **0.05** |
