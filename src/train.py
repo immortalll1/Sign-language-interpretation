@@ -24,7 +24,7 @@ def main():
 
     # Ускоренные параметры
     BATCH_SIZE = 8
-    EPOCHS = 50
+    EPOCHS = 30
     LEARNING_RATE = 1e-4
     SEQUENCE_LENGTH = 16
     IMG_SIZE = 128
